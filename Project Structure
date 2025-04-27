@@ -1,0 +1,11 @@
+sign-language-recognition/
+│
+├── backend/
+│    ├── model.h5   (pre-trained model file)
+│    ├── server.py  (Flask backend)
+│
+└── frontend/
+     ├── public/
+     ├── src/
+         ├── App.js (React frontend)
+         ├── index.js
