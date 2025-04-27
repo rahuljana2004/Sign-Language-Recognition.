@@ -1,0 +1,18 @@
+Open Terminal #1:
+
+bash
+Copy
+Edit
+cd backend
+pip install flask tensorflow opencv-python flask-cors
+python server.py
+
+
+Open Terminal #2:
+
+bash
+Copy
+Edit
+cd frontend
+npm install
+npm start
